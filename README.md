@@ -40,15 +40,3 @@ Capture images with unique effects, as if taken with a vintage toy camera.
 </a>  
 
 A professional manual camera app, supporting high-resolution photography and fine-grained control.
-
-<p align="left">
-  <a href="https://zenn.dev/naoya_maeda">
-    <img src="https://zenn.badge.nikaera.com/s/naoya_maeda" height="25" />
-  </a>
-  <a href="https://zenn.dev/naoya_maeda?tab=articles">
-    <img src="https://zenn.badge.nikaera.com/s/naoya_maeda/articles" height="25" />
-  </a>
-  <a href="https://zenn.dev/naoya_maeda">
-    <img src="https://zenn.badge.nikaera.com/s/naoya_maeda/likes" height="25" />
-  </a>
-</p>
