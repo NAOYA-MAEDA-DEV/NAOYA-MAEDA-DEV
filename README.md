@@ -1,4 +1,4 @@
-## 👋 About Me
+## About Me
 I’m an iOS and watchOS app engineer, passionate about crafting unique camera and photo editing experiences.  
 I focus on combining creativity with technology to deliver apps that help users capture and enjoy memorable moments.
 
