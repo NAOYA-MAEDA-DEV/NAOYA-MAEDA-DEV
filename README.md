@@ -4,7 +4,7 @@ I specialize in building advanced camera and photo editing apps, leveraging high
 
 ---
 
-## 📖 Author
+## Publication
 <a href="https://booth.pm/ja/items/6760109/" target="_blank">
   <img src="https://github.com/user-attachments/assets/bb3720a8-a709-4846-96bb-4cdeb955bc39" alt="Mastering AVFoundation Capture" width="300"/>
 </a>  
@@ -17,7 +17,7 @@ It also provides guidance on controlling detailed camera settings, including foc
 
 ---
 
-## 📱 Apps
+## Apps
 
 <a href="https://apps.apple.com/jp/app/photograph-%E4%B8%80%E7%9C%BC%E3%83%88%E3%82%A4%E3%82%AB%E3%83%A1%E3%83%A9/id1028791881" target="_blank">
   <img src="https://github.com/user-attachments/assets/6da590bd-55b1-4f71-af84-935523fdafaf" width="100" alt="Photograph+ App Icon"/><br>
