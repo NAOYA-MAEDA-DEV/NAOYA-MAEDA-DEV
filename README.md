@@ -32,7 +32,6 @@ Originally released in 2015 and downloaded over 460,000 times, Photograph+ has b
 <img src="https://github.com/user-attachments/assets/012b9886-14f8-4619-ac4d-d890817b00d3" width="150" hspace="10">
 <img src="https://github.com/user-attachments/assets/baf0fb6d-6245-4145-a535-99a524235a03" width="150" hspace="10">
 <img src="https://github.com/user-attachments/assets/beef4c04-54af-4d6e-b435-468f0fc2303c" width="150" hspace="10">
-<img src="https://github.com/user-attachments/assets/86985773-fc7c-418c-af90-220d3c9f25bc" width="150" hspace="10">
 </p>
 
 ---
@@ -52,7 +51,6 @@ From shooting to professional-grade editing and management, MyCam Pro 2 provides
 <img src="https://github.com/user-attachments/assets/b8a3ccd7-cb5f-435f-888f-da612b12dd3a" width="150" hspace="10">
 <img src="https://github.com/user-attachments/assets/6434e33c-ab3e-4cf6-8c1f-3d27b6877921" width="150" hspace="10">
 <img src="https://github.com/user-attachments/assets/b631a287-09ca-4459-9a25-5cf32f8ec77f" width="150" hspace="10">
-<img src="https://github.com/user-attachments/assets/d34e155c-4388-4042-899f-7ef712e4dad7" width="150" hspace="10">
 </p>
 
 <p align="left">
@@ -77,5 +75,4 @@ It combined 60’s - 90’s film camera and latest iOS technology.
 <img src="https://github.com/user-attachments/assets/ffb2cc35-6a2d-4945-af0d-dddbf3733a10" width="150" hspace="10">
 <img src="https://github.com/user-attachments/assets/e55583d1-4d7d-4247-a8ea-d3fe17bb3a7b" width="150" hspace="10">
 <img src="https://github.com/user-attachments/assets/612ebcad-3050-4317-bdef-ee28edbabcf2" width="150" hspace="10">
-<img src="https://github.com/user-attachments/assets/82abaeb9-45a1-483c-b87d-5500b33bb4a1" width="150" hspace="10">
 </p>
