@@ -12,6 +12,9 @@ I specialize in building advanced camera and photo editing apps, leveraging high
 **_Mastering AVFoundation Capture_**  
 A technical deep dive into AVFoundation’s camera capture features, designed for developers who want to build powerful camera apps.
 
+This book explains how to implement camera-related features using Apple’s AVFoundation framework. It covers the architecture of camera capture functionalities and the key APIs that compose them, starting from the basics, and demonstrates how to implement common capture features found in camera apps, such as photo and video recording.
+It also provides guidance on controlling detailed camera settings, including focus, exposure, and white balance, as well as capturing professional-grade data such as RAW and LOG formats.
+
 ---
 
 ## 📱 Apps
