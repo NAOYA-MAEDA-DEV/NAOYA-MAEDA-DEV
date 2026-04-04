@@ -1,6 +1,6 @@
 ## About Me
-I’m an iOS and watchOS app engineer, passionate about crafting unique camera and photo editing experiences.  
-I focus on combining creativity with technology to deliver apps that help users capture and enjoy memorable moments.
+I’m an iOS and watchOS engineer with deep expertise in AVFoundation and extensive experience in iPhone camera technologies.
+I specialize in building advanced camera and photo editing apps, leveraging high-level image processing techniques to create powerful, professional-grade experiences.
 
 ---
 
