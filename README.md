@@ -20,7 +20,7 @@ It also provides guidance on controlling detailed camera settings, including foc
 ## Apps
 
 <a href="https://apps.apple.com/jp/app/photograph-%E4%B8%80%E7%9C%BC%E3%83%88%E3%82%A4%E3%82%AB%E3%83%A1%E3%83%A9/id1028791881" target="_blank">
-  <img src="https://github.com/user-attachments/assets/6da590bd-55b1-4f71-af84-935523fdafaf" width="100" alt="Photograph+ App Icon"/><br>
+  <img src="https://github.com/user-attachments/assets/82e15435-f59e-406f-a325-931c4dc3bd82" width="100" alt="Photograph+ App Icon"/><br>
   <b>Photograph+ 2</b>
 </a>
 
@@ -37,7 +37,7 @@ Originally released in 2015 and downloaded over 460,000 times, Photograph+ has b
 ---
 
 <a href="https://apps.apple.com/jp/app/mycam-pro-48mp%E5%AF%BE%E5%BF%9C%E9%AB%98%E7%94%BB%E8%B3%AA%E3%83%9E%E3%83%8A%E3%83%BC%E3%82%AB%E3%83%A1%E3%83%A9/id1540711931" target="_blank">
-  <img src="https://github.com/user-attachments/assets/93ef7e96-f795-41a6-b100-0f2b8bd58d1c" width="100" alt="MyCam Pro App Icon"/><br>
+  <img src="https://github.com/user-attachments/assets/239e689d-2b67-4e57-9001-f7621ff41443" width="100" alt="MyCam Pro App Icon"/><br>
   <b>MyCam Pro 2</b>
 </a>  
 
